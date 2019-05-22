@@ -9,17 +9,17 @@
 #  'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Doxy - Documentation Website"
-email: "themeix@gmail.com"
-description: "Doxy is a responsive Jekyll template for your documentation or knowledgebase website"
-keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
+title: "IISc ACM Student Chapter"
+email: "shriramr@iisc.ac.in"
+description: "Website of IISc ACM Student Chapter"
+keywords: "iisc, acm chapter, student chapter"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://doxy.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://iiscacmstudentchapter.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png"
 ## Theme Options
 animated_header: ""  #true 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: IIScACMStudentChapter
+github_username:  IIScACMStudentChapter
 
 
 
