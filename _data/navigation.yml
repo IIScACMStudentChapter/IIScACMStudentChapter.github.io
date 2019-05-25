@@ -2,16 +2,7 @@
 
 - text: Home
   url: /
-- text: Blog
-  url: /tag/education
-  submenu:
-  - text: Blog Left Sidebar
-    url: /blog-post-left-sidebar
-  - text: Blog Right Sidebar
-    url: /blog-post-right-sidebar
-  - text: Blog Details
-    url: /technology-placeat-ipsum-libero
-  - text: Post Tag Page
-    url: /tag/education
+- text: Team
+  url: /pages/contact
 - text: Contact
   url: /pages/contact
