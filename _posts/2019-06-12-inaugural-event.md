@@ -27,7 +27,7 @@ comment: false
 </p>
 
 <p>
-Keep watching this space for more info. Apply for Activity Co-ordinator here.
+Keep watching this space for more info. Apply for Activity Co-ordinator <a href="/pages/open-positions">here</a>.
 </p>     
 
 

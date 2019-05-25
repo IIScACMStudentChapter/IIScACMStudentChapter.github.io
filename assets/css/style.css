@@ -390,6 +390,11 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   padding-bottom: 100px;
 }
 
+.timeline-section-spacing {
+  padding-top: 0px;
+  padding-bottom: 100px;
+}
+
 @media (min-width: 768px) and (max-width: 991px) {
   .section-spacing {
     padding-top: 70px;
@@ -728,7 +733,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 
 .header-navigation .navigation-box #navigation-menu li a {
-  font-size: 16px;
+  font-size: 24px;
   line-height: 30px;
   padding: 15px;
   color: #ffffff;
@@ -980,7 +985,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 
 .full-padding {
-  padding: 300px 0;
+  padding: 200px 0;
 }
 
 @media (max-width: 768px) {
@@ -1986,13 +1991,13 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 *  20.0 Privacy Policy Area
 * ============================
 */
-.privacy-policy-box {
+.about-us-box {
   display: table;
   width: 100%;
   margin-bottom: 30px;
 }
 
-.privacy-policy-box .privacy-policy-icon {
+.about-us-box .about-us-icon {
   width: 60px;
   height: 60px;
   float: left;
@@ -2002,25 +2007,26 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   text-align: center;
 }
 
-.privacy-policy-box .privacy-policy-content {
+.about-us-box .about-us-content {
   width: calc(100% - 60px);
   padding-left: 30px;
   float: left;
 }
 
-.privacy-policy-box .privacy-policy-content h4, .privacy-policy-box .privacy-policy-content h6 {
+.about-us-box .about-us-content h4, .about-us-box .about-us-content h6 {
   font-weight: 600;
 }
 
-.privacy-policy-box .privacy-policy-content h6 {
+.about-us-box .about-us-content h6 {
   text-decoration: underline;
 }
 
-.privacy-policy-box .privacy-policy-content p {
+.about-us-box .about-us-content p {
   margin-bottom: 30px;
+  text-align: justify;
 }
 
-.privacy-policy-box .privacy-policy-content .privacy-policy-list li:before {
+.about-us-box .about-us-content .about-us-list li:before {
   content: "\f111";
   font-size: 13px;
   font-family: "fontawesome";
@@ -2135,7 +2141,11 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 
 .single-post .single-img img {
-  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
 }
 
 .single-post .single-content {
@@ -2144,6 +2154,19 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 
 .single-post .single-content p {
   margin-bottom: 30px;
+  text-align: justify
+}
+
+.single-post .single-content a {
+  color: #007bff;
+}
+
+.single-post .single-content .blog-list li:before {
+  content: "\f111";
+  font-size: 13px;
+  font-family: "fontawesome";
+  margin-right: 10px;
+  color: #216BBC;
 }
 
 .single-post .single-content p:last-child {
@@ -2812,7 +2835,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 */
 .headline-wrapper {
   position: relative;
-  bottom: 100px;
+  bottom: 150px;
 }
 
 .headline-box {
@@ -2852,6 +2875,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 
 .headline-box .headline-content p {
   margin-bottom: 30px;
+  text-align: justify
 }
 
 .headline-box:hover {
@@ -2922,6 +2946,10 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 */
 .footer-widget {
   margin-bottom: 30px;
+}
+
+.footer-widget p {
+  text-align: justify;
 }
 
 .footer-title {
