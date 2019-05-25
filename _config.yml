@@ -48,7 +48,7 @@ collections:
     output: true
     permalink: /docs/:path/
 
-
+future: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
