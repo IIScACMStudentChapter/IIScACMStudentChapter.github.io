@@ -459,12 +459,12 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 
 .bg-cover1 {
-  background: url(../images/page-title-img.jpg);
+  background: url(../images/iisc-title-img.jpg);
   background-size: cover;
 }
 
 .bg-cover2 {
-  background: url(../images/page-title-img2.jpg);
+  background: url(../images/iisc-title-img.jpg);
   background-size: cover;
 }
 
@@ -648,6 +648,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 
 .header-navigation .navigation-box .navigation-left {
+  width: 50%;
   float: left;
 }
 
@@ -656,8 +657,8 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 
 .header-navigation .navigation-box .header-logo {
+  width: 55%;
   margin: 10px  0;
-  max-width: 30%;
   display: block;
 }
 
@@ -2662,6 +2663,11 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 *  22.0 Timeline Area
 * ============================
 */
+
+.timeline-area {
+  bottom: 50px;
+}
+
 .timeline ul {
   margin: 0;
   padding: 0;
@@ -2874,6 +2880,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 
 .headline-box .headline-content p {
+  min-height: 180px;
   margin-bottom: 30px;
   text-align: justify
 }
