@@ -2027,6 +2027,14 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   text-align: justify;
 }
 
+.about-us-box .about-us-content dt {
+  margin-top: 15px;
+}
+
+.about-us-box .about-us-content dd {
+  text-align: justify;
+}
+
 .about-us-box .about-us-content .about-us-list li:before {
   content: "\f111";
   font-size: 13px;
