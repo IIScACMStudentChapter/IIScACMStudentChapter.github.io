@@ -1,13 +1,26 @@
 ---
 layout: post
 title: "Inaugural Event"
-date: 2019-06-12 10:00:00 +0530
+date: 2019-06-13 16:00:00 +0530
 tags: [event, inaugural]
 post_image: https://clipartstation.com/wp-content/uploads/2017/11/inauguration-ribbon-clipart-13-1.jpg
 comment: false
 ---
 
-<p>The Chapter will hold it's inaugral event on <b>12th June 2019</b>. We are excited to announce that <b>Dr. Gargi B. Dasgupta</b> will feature as the chief guest for this event. </p>
+<p>The Chapter will hold it's inaugral event on <b>13th June 2019</b>. We are excited to announce that <b>Dr. Gargi B. Dasgupta</b> will feature as the chief guest for this event. </p>
+
+<h6>Title</h6>
+
+<p>Cognitive Technical Support</p>
+
+<h6>Abstract</h6>
+
+<p>Scientists are working on using cognitive technologies for creating an improved technical support experience. Technical support is a hard task and companies offering support often face criticism. This is because (a) the domain is vast and complex given the number of different types and configurations of technical products that exist in the market today and (b) often times technical support services are scripted and follow a pattern without contextualizing the problem or the user.</p>
+ 
+<p>Smarter tech support operations can be created by incorporating analytics and cognitive technologies into solutions that can learn what is important, contextually, and take the right actions on behalf of the user – sometimes before the user even realizes an issue has occurred.  The right set of actions is very important for creating the support experience. Often times automated technologies have shallow understanding of the customer’s intent and may ask you to perform the same set of actions without understanding the skill of the customer (i.e. if she has already tried some of these things) or if she has been there before with the same complaint.</p>
+ 
+<p>We at IBM Research are working on how to design the workplace of the future while embracing emerging new cognitive and analytic capabilities that are built using machine learning, natural language processing, semantic ontologies and knowledge modeling techniques.</p>
+
 
 <h4 class="heading-4">Bio</h4>
 
