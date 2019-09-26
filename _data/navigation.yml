@@ -2,6 +2,8 @@
 
 - text: Home
   url: /
+- text: Events
+  url: /invitedtalk-manishgupta  
 - text: Team
   url: /pages/open-positions
 - text: Join Us
