@@ -163,10 +163,14 @@
             responsiveClass: true,
             responsive: {
                 0: {
-                    items: 4,
+                    items: 1,
+                    autoplay: true,
+                    autoplayTimeout:2500,
                 },
                 768: {
-                    items: 4,
+                    items: 2,
+                    autoplay: true,
+                    autoplayTimeout:2500,
                 },
                 992: {
                     items: 4,
