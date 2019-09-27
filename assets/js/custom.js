@@ -54,6 +54,7 @@
             dots: false,
             autoplay:true,
             autoplayTimeout:2500,
+            lazyLoad: true,
             responsiveClass: true,
             responsive: {
                 0: {
