@@ -166,11 +166,17 @@
                     items: 1,
                     autoplay: true,
                     autoplayTimeout:2500,
+                    loop: true,
+                    mouseDrag: true,
+                    touchDrag: true,
                 },
                 768: {
                     items: 2,
                     autoplay: true,
                     autoplayTimeout:2500,
+                    loop: true,
+                    mouseDrag: true,
+                    touchDrag: true,
                 },
                 992: {
                     items: 4,
