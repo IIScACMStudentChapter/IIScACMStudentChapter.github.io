@@ -2711,35 +2711,35 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   background: #f2f6fb;
 }
 
-.timeline ul li .completed-event{
-  background: #96d196;
-}
-
-.timeline .completed-event{
-  background: #96d196;
-}
-
 .timeline ul li .upcoming-event{
-  background: #f2f6fb;
+  background: #96d196;
 }
 
 .timeline .upcoming-event{
+  background: #96d196;
+}
+
+.timeline ul li .completed-event{
   background: #f2f6fb;
 }
 
-.timeline ul li:nth-child(odd) .completed-event::before {
-  border-color: transparent transparent transparent #96d196;
-}
-
-.timeline ul li:nth-child(even) .completed-event::before {
-  border-color: transparent #96d196 transparent transparent;
+.timeline .completed-event{
+  background: #f2f6fb;
 }
 
 .timeline ul li:nth-child(odd) .upcoming-event::before {
-  border-color: transparent transparent transparent #f2f6fb;
+  border-color: transparent transparent transparent #96d196;
 }
 
 .timeline ul li:nth-child(even) .upcoming-event::before {
+  border-color: transparent #96d196 transparent transparent;
+}
+
+.timeline ul li:nth-child(odd) .completed-event::before {
+  border-color: transparent transparent transparent #f2f6fb;
+}
+
+.timeline ul li:nth-child(even) .completed-event::before {
   border-color: transparent #f2f6fb transparent transparent;
 }
 
