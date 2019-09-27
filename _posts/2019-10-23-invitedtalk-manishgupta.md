@@ -4,10 +4,10 @@ title: "Invited Talk - Dr. Manish Gupta"
 date: 2019-10-23 17:00:00 +0530
 tags: [event, talks]
 comment: false
+summary: The Chapter will host an invited talk by Dr. Manish Gupta, Head, Google Research India on 23rd October 2019.
 ---
 
 <br>
-
 
 <h2 style="text-align: center"> Invited Talk - Dr. Manish Gupta</h2>                                                                        
 
@@ -26,7 +26,7 @@ comment: false
 <p>TBD</p>
 
 <p>
-Keep watching this space for more info. Apply for Activity Co-ordinator <a href="/pages/open-positions">here</a>.
+Keep watching this space for more info. Apply for Activity Co-ordinator <a href="/pages/team#open-positions">here</a>.
 </p>     
 
 

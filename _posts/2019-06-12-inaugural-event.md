@@ -3,11 +3,30 @@ layout: post
 title: "Inaugural Event"
 date: 2019-06-13 16:00:00 +0530
 tags: [event, inaugural]
-post_image: https://clipartstation.com/wp-content/uploads/2017/11/inauguration-ribbon-clipart-13-1.jpg
 comment: false
+summary: The Chapter held it's inaugural event on the 13th of June 2019. The event featured Dr. Gargi Banerjee Dasgupta (Director, IBM Research India and CTO, IBM India and South Asia) as the Chief Guest.
 ---
+<br>
 
-<p>The Chapter will hold it's inaugural event on <b>13th June 2019</b>. We are excited to announce that <b>Dr. Gargi B. Dasgupta</b> will feature as the chief guest for this event. </p>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-9" style="margin: auto">
+                <div class="post-carousel owl-carousel">
+                    {% for image in site.static_files %}
+                        {% if image.path contains 'acm-inaugural-event' %}       
+                            <div class="slider-content wow fadeIn" data-wow-duration="3s">
+                                <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />                             
+                            </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+        </div>
+    </div>
+</div>
+
+<br>
+
+<p>The Chapter held it's inaugural event on <b>13th June 2019</b>. We are excited to announce that <b>Dr. Gargi B. Dasgupta</b>  featured as the chief guest for this event. </p>
 
 <h6>Title</h6>
 
@@ -40,7 +59,7 @@ comment: false
 </p>
 
 <p>
-Keep watching this space for more info. Apply for Activity Co-ordinator <a href="/pages/open-positions">here</a>.
+Keep watching this space for more info. Apply for Activity Co-ordinator <a href="/pages/team#open-positions">here</a>.
 </p>     
 
 

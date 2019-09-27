@@ -3,9 +3,9 @@
 - text: Home
   url: /
 - text: Events
-  url: /invitedtalk-manishgupta  
+  url: /pages/events  
 - text: Team
-  url: /pages/open-positions
+  url: /pages/team
 - text: Join Us
   url: /pages/join-us
 - text: Contact

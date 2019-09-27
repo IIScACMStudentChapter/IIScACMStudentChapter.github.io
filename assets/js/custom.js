@@ -29,10 +29,31 @@
     // Slider Carousel
     if ($('.slider-carousel').length > 0) {
         $('.slider-carousel').owlCarousel({
+            loop: false,
+            nav: false,
+            dots: false,
+            autoplay:true,
+            mouseDrag: false,
+            touchDrag: false,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 1,
+                },
+                768: {
+                    items: 1,
+                }
+            }
+        })
+    }
+    // Post Carousel
+    if ($('.post-carousel').length > 0) {
+        $('.post-carousel').owlCarousel({
             loop: true,
             nav: false,
             dots: false,
             autoplay:true,
+            autoplayTimeout:2500,
             responsiveClass: true,
             responsive: {
                 0: {
@@ -105,13 +126,15 @@
         })
     }
 
-    if ($('.team-carousel').length > 0) {
-        $('.team-carousel').owlCarousel({
-            loop: true,
-            nav: true,
+    if ($('.team-carousel-1').length > 0) {
+        $('.team-carousel-1').owlCarousel({
+            loop: false,
+            nav: false,
             dots: false,
-            margin:60,
-            autoplay:true,
+            margin:0,
+            autoplay:false,
+            mouseDrag: false,
+            touchDrag: false,
             responsiveClass: true,
             responsive: {
                 0: {
@@ -122,6 +145,30 @@
                 },
                 992: {
                     items: 3,
+                }
+            }
+        })
+    }
+
+    if ($('.team-carousel-2').length > 0) {
+        $('.team-carousel-2').owlCarousel({
+            loop: false,
+            nav: false,
+            dots: false,
+            margin:60,
+            autoplay:false,
+            mouseDrag: false,
+            touchDrag: false,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 4,
+                },
+                768: {
+                    items: 4,
+                },
+                992: {
+                    items: 4,
                 }
             }
         })
