@@ -14,7 +14,7 @@ email: "shriramr@iisc.ac.in"
 description: "Website of IISc ACM Student Chapter"
 keywords: "iisc, acm chapter, student chapter"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iiscacmstudentchapter.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://iisc.acm.org" # the base hostname & protocol for your site, e.g. http://example.com
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png"
 ## Theme Options
 animated_header: ""  #true 
