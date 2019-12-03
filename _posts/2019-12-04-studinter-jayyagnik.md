@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Student Interaction with Jay Yagnik | VP and Engineering Fellow @ Google"
-date: 2019-12-05 10:30:00 +0530
+date: 2019-12-04 10:30:00 +0530
 tags: [event, talks]
 comment: false
 summary: IISc's ACM Student Chapter is delighted to host an open ended discussion between Jay Yagnik, a distinguished IISc alumnus, and students. Students can quiz him about his time at IISc to his exploits at Google and everything in between.
@@ -12,7 +12,7 @@ summary: IISc's ACM Student Chapter is delighted to host an open ended discussio
 <p>The Chapter will host an an open ended discussion between <b>Jay Yagnik</b>, a distinguished IISc alumnus, and students. Students can quiz him about his time at IISc to his exploits at Google and everything in between.
 </p>
 
-<p>The event will be held on <b>05th December 2019</b> between <b>10:30 AM - 11:30 AM</b> in <b>SERC Auditorium</b>.</p> 
+<p>The event will be held on <b>04th December 2019</b> between <b>10:30 AM - 11:30 AM</b> in <b>SERC Auditorium</b>.</p> 
 
 <h6>Title</h6>
 
