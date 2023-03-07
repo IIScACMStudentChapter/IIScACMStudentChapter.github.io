@@ -4,7 +4,7 @@ title: "Invited talk by Dr. Balakrishnan Srinivasan, Senior System Software Engi
 date: 2022-11-24
 tags: [event, talks]
 comment: false
-summary: Mixer Event to introduce students to IISc's student chapter
+summary: The Chapter will host an Invited talk by Dr. Balakrishnan Srinivasan, Senior System Software Engineer, Compiler Team NVIDIA, Bangalore
 ---
 <!-- Start Blog  Area -->
    <section class="blog-area bg-color1">
