@@ -40,7 +40,7 @@ permalink: /:title/
 collections:
   team_members:
     output: true
-    permalink: /team_members/:path/
+    permalink: /_team_members/:path/
   testimonials:
     output: true
     permalink: /testimonials/:path/
