@@ -180,6 +180,11 @@
                 },
                 992: {
                     items: 4,
+                    autoplay: true,
+                    autoplayTimeout:2500,
+                    loop: true,
+                    mouseDrag: true,
+                    touchDrag: true,
                 }
             }
         })
